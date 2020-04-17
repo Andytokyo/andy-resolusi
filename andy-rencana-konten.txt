@@ -1,5 +1,7 @@
 Rencana konten Andy
-- Javascript
+- Javascript 
+ - ES6
+ - Frame work Javascript
 - PHP framework
 - interview
 - vlog
