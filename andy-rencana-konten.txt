@@ -3,6 +3,7 @@ Rencana konten Andy
  - ES6
  - Frame work Javascript
  - vue
+ - react
 - fundamental data structure
 - PHP framework
  -laravel
