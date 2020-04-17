@@ -2,7 +2,9 @@ Rencana konten Andy
 - Javascript 
  - ES6
  - Frame work Javascript
-- fundamental data structure
+ - Angular
+ - React
 - PHP framework
+ - Laravel
 - interview
 - vlog
